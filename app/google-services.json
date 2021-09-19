@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327099284785",
+    "project_id": "fir-stepik",
+    "storage_bucket": "fir-stepik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327099284785:android:56ae950ae9a9c4671b0410",
+        "android_client_info": {
+          "package_name": "com.jennyfurman.firebasestepikjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327099284785-c3kdcfvh8qi5rg7cis8s44qt1vu16n8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jennyfurman.firebasestepikjava",
+            "certificate_hash": "5618a976997fbfeffd2fc779647643d05592ccc1"
+          }
+        },
+        {
+          "client_id": "327099284785-0ekej9b021ogbu6k2a5m7m08mh0tpq5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIfBdvDc7r8dhWcFpYrRwR7FdM_budxPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327099284785-0ekej9b021ogbu6k2a5m7m08mh0tpq5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
